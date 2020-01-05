@@ -7,3 +7,4 @@ https://github.com/apache/lucene-solr/raw/master/lucene/analysis/stempel/src/res
 Testing the stempel stemmer using this Polish table also requires another file not distributed in this repository.  This file can be acquired here:
 
 https://sjp.pl/slownik/ort/sjp-myspell-pl-20180322.zip
+Latest SJP: https://sjp.pl/slownik/ort/sjp-myspell-pl-20200103.zip
